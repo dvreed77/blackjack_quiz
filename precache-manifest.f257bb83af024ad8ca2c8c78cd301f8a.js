@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "af90584b286279b27d05",
+    "revision": "8de8c634cfd9994f3077",
     "url": "/blackjack_quiz/static/css/main.9fbe6ecc.chunk.css"
   },
   {
-    "revision": "af90584b286279b27d05",
-    "url": "/blackjack_quiz/static/js/main.af90584b.chunk.js"
+    "revision": "8de8c634cfd9994f3077",
+    "url": "/blackjack_quiz/static/js/main.8de8c634.chunk.js"
   },
   {
     "revision": "c85e00e1db5d3bd93d86",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/blackjack_quiz/static/js/runtime~main.f33d1229.js"
   },
   {
-    "revision": "29783d3b888a04dd18b29ed6f6243324",
+    "revision": "0e9e430021cd09b54a8564e1e175d58f",
     "url": "/blackjack_quiz/index.html"
   }
 ];
