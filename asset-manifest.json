@@ -1,13 +1,13 @@
 {
   "main.css": "/blackjack_quiz/static/css/main.9fbe6ecc.chunk.css",
-  "main.js": "/blackjack_quiz/static/js/main.e4b0625e.chunk.js",
-  "main.js.map": "/blackjack_quiz/static/js/main.e4b0625e.chunk.js.map",
+  "main.js": "/blackjack_quiz/static/js/main.3fa9ba40.chunk.js",
+  "main.js.map": "/blackjack_quiz/static/js/main.3fa9ba40.chunk.js.map",
   "static/js/1.c85e00e1.chunk.js": "/blackjack_quiz/static/js/1.c85e00e1.chunk.js",
   "static/js/1.c85e00e1.chunk.js.map": "/blackjack_quiz/static/js/1.c85e00e1.chunk.js.map",
   "runtime~main.js": "/blackjack_quiz/static/js/runtime~main.f33d1229.js",
   "runtime~main.js.map": "/blackjack_quiz/static/js/runtime~main.f33d1229.js.map",
   "static/css/main.9fbe6ecc.chunk.css.map": "/blackjack_quiz/static/css/main.9fbe6ecc.chunk.css.map",
   "index.html": "/blackjack_quiz/index.html",
-  "precache-manifest.3c27616b9fdb4c0e6bf51807f51a52df.js": "/blackjack_quiz/precache-manifest.3c27616b9fdb4c0e6bf51807f51a52df.js",
+  "precache-manifest.bc1786e2161430d1185b3082e21fd208.js": "/blackjack_quiz/precache-manifest.bc1786e2161430d1185b3082e21fd208.js",
   "service-worker.js": "/blackjack_quiz/service-worker.js"
 }
